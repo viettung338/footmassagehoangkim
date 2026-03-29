@@ -1,5 +1,4 @@
-# footmassagehoangkim
-/* Màu chủ đạo: Vàng kim (#D4AF37) và Đen/Nâu đậm */
+
 :root {
     --gold: #D4AF37;
     --dark: #1a1a1a;
